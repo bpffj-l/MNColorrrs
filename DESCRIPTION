@@ -1,0 +1,12 @@
+Package: MNColorrrs
+Type: Package
+Title: Applies the State of Minnesota Branded Colors to ggplot2
+Version: 0.1.01
+Author: Ben Jaques-leslie
+Maintainer: <benjamin.jaques-leslie@state.mn.us>
+Description: This package creates palettes for the State of Minnesota branded colors and develops functions to apply these palettes to ggplot2 charts.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+NeedsCompilation: no
+RoxygenNote: 7.1.2
